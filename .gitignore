@@ -1,0 +1,6 @@
+clickstream/
+demographic/
+facilities/
+location/
+*.h5
+*.csv
