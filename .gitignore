@@ -2,5 +2,9 @@ clickstream/
 demographic/
 facilities/
 location/
-*.h5
+classified_tld.h5
+click_df.h5
+clickstreams_classified.h5
+encoded.h5
+scraped.txt
 *.csv
